@@ -192,7 +192,7 @@ textarea {
 }
 body {
   margin: 0;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Ek Mukta', sans-serif;
   font-size: 14px;
   line-height: 20px;
   color: #444444;
@@ -604,7 +604,7 @@ h4,
 h5,
 h6 {
   margin: 10px 0;
-  font-family: inherit;
+  font-family: 'Titillium Web', sans-serif;
   font-weight: bold;
   line-height: 20px;
   color: inherit;
@@ -878,7 +878,7 @@ input,
 button,
 select,
 textarea {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Ek Mukta', sans-serif;
 }
 label {
   display: block;
@@ -3342,7 +3342,7 @@ input[type="submit"].btn.btn-mini {
 .navbar-search .search-query {
   margin-bottom: 0;
   padding: 4px 14px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Ek Mukta', sans-serif;
   font-size: 13px;
   font-weight: normal;
   line-height: 1;
