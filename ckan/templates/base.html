@@ -69,7 +69,7 @@
     #}
     {%- block styles %}
         <link href="https://fonts.googleapis.com/css?family=Ek+Mukta|Titillium+Web" rel="stylesheet">
-        {% resource 'css/luke.css' %}
+        {% resource g.main_css[6:] %}
     {% endblock %}
 
     {% block head_extras %}
