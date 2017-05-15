@@ -125,3 +125,7 @@ html body {
   background: #00b5e2 url("../../../base/images/bg.png");
 }
 
+html .hero {
+  background: #eeeeee url("../../../base/images/bg.png");
+}
+
