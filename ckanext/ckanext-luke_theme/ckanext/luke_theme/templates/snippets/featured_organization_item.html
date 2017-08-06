@@ -1,0 +1,6 @@
+{% set url=h.url_for(controller='organization', action='read', id=organization.name) %}
+{% set truncate=truncate or 0 %}
+{% block featured_organization_item %}
+<img alt="{{organization.display_name}}" src="{{organization.image_display_url}}" width="200"></img>
+{% endblock %}
+
